@@ -1,0 +1,30 @@
+* {
+  margin: 5px;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+body {
+  background-color: #0e1217d5;
+  color: #fdfdfd;
+
+}
+
+ul{
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+  opacity: 0.6;
+  transition: all 0.3s ease;
+}
+
+a:hover {
+  opacity: 1;
+}
+
+p {
+  color: #a9abb3;
+}
